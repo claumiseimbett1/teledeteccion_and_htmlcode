@@ -15,3 +15,24 @@ Este repositorio contiene scripts y ejemplos de código en **Python** y **JavaSc
 - 🛰️ **SNAP** – Procesamiento de datos de Sentinel
 - 🌍 **Google Earth Engine (GEE)** – Análisis en la nube con imágenes satelitales
 - 🧠 **Machine Learning** – Clasificación temporal de coberturas terrestres
+
+Cada carpeta contiene scripts comentados, ejemplos prácticos y recomendaciones de uso.
+
+---
+
+## 🤝 Licencia
+
+Este repositorio es de **libre uso educativo** bajo la licencia [MIT](LICENSE). Puedes reutilizar, adaptar y compartir el contenido citando la fuente original.
+
+---
+
+## ✉️ Contacto
+
+¿Tienes dudas o sugerencias? Puedes abrir un [Issue](https://github.com/TU_USUARIO/REPO/issues) o contribuir directamente al repositorio con un Pull Request.
+
+---
+
+## 🌱 Recomendación
+
+¡Explora, edita y aprende! Cada script está pensado como una guía inicial para desarrollar tus propios flujos de trabajo en teledetección.
+
